@@ -1,27 +1,27 @@
 # Summary of Contributions
-
-Below, briefly describe the specific contribution(s) each team member (including yourself) made to your project. 
-Both partners should contribute to this file from their own perspectives.
-Point form is fine, but you should use the following format:
+Group member 1- Disha D H
+Group member 2- Harpreet Kaur
 
 ## Group Work
 
 - How did the team work together as a whole overall ?
+* We were very collaborative and shared each others understandings and clearly conveyed our message to each other. We corrected any mistook understandings and worked towards getting the solution together and contributed equally.
 
 ## Contributions
 
-### {Name of Partner 1}'s Contributions
+### {Disha}'s Contributions
 
-- One or two sentences about the main contributions of {Name of Partner 1}
+- Initial steps of EDA. Exploration of the data and initial thoughts.
+- Research question to find the maximum credit limit based on age and gender.
 
-### {{Name of Partner 1}'s Role
+### {{Disha}'s Role
 
-- A few sentences about the main contributions of {Name of Partner 2}
+- Played a equal team member and contributed equally.
 
 ## Things that went well
 
-- What went well throughout the team mini-project experience?
+- Understanding and conveying the message clearly. Collaborative development with github.
 
 ## Things that went poorly
 
-- What went poorly throughout the team mini-project experience?
+- In person experience.
