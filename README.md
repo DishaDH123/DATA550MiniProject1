@@ -1,2 +1,2 @@
 # DATA550MiniProject1
-Mini project 1- Harpreet and Disha in Python
+- This project is a complete Exploratory Data Analysis performed on a credit score dataset
